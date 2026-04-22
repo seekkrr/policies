@@ -17,6 +17,8 @@ This refund and cancellation policy outlines how you can cancel or seek a refund
 ## 1. Non-Refundable Items
 Except where required by applicable law, all purchases and subscription fees are strictly non-refundable.
 
+**Digital Content Clause:** For digital products (Quests), the right to cancel or seek a refund is waived once the user has 'Started' or 'Accessed' the quest content on the Application, except in cases of technical failure where the content is proven to be inaccessible.
+
 ## 2. Cancellation Policy
 Cancellations will only be considered if the request is made within 7 days of placing the order (if applicable to the specific service or physical good being offered). 
 
@@ -33,5 +35,11 @@ Please provide your order details, registered email address, and reason for the 
 ## 4. Refund Processing
 In case of any refunds approved by SOLOQUEST PRIVATE LIMITED, it will take up to **7 business days** for the refund to be processed and credited back to your original payment method.
 
-## 5. Contact
-If you have any questions, you can contact us securely at [support@seekkrr.com](mailto:support@seekkrr.com).
+## 5. Grievance Officer
+In accordance with the IT Act 2000 and Consumer Protection Rules:
+- **Name:** Rishabh Maheshwari
+- **Designation:** Grievance Redressal Officer
+- **Email:** [grievance@seekkrr.com](mailto:grievance@seekkrr.com)
+
+## 6. Contact
+If you have any questions, you can contact us securely at [support@seekkrr.com](mailto:support@seekkrr.com) or call **+91 9310785883**.

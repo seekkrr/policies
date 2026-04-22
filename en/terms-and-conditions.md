@@ -24,6 +24,8 @@ SeekKrr is a gamified quest and travel exploration platform. We provide users wi
 ## 2. User Accounts
 To participate in certain features of the Platform (such as taking quests, purchasing items, or creating content), you must register for an account. You agree to provide accurate, current, and complete information during the registration process and to keep this information up to date.
 
+**Age of Capacity:** By using the Platform, you represent that you are at least 18 years of age or have received parental/guardian consent to enter into these Terms.
+
 You are responsible for safeguarding your password and agree not to disclose it to any third party. You must notify us immediately upon becoming aware of any breach of security or unauthorized use of your account.
 
 ## 3. User Conduct and Safety
@@ -56,7 +58,13 @@ These Terms shall be governed by and defined following the laws of **Uttar Prade
 ## 8. Limitation of Liability
 In no event will we or our directors, employees, or agents be liable to you or any third party for any direct, indirect, consequential, exemplary, incidental, special, or punitive damages, including lost profit, lost revenue, loss of data, or other damages arising from your use of the Platform, even if we have been advised of the possibility of such damages.
 
-## 9. Contact Us
+## 9. Indemnification
+You agree to indemnify and hold harmless SOLOQUEST PRIVATE LIMITED from any claims, damages, or expenses arising out of your violation of these Terms or your real-world conduct during a quest.
+
+## 10. Termination
+We reserve the right to suspend or terminate your account immediately, without prior notice, for conduct that we believe violates these Terms or poses a safety risk to other users.
+
+## 11. Contact Us
 For any concerns, complaints, or questions, please reach out to us:
 - **Email:** [support@seekkrr.com](mailto:support@seekkrr.com)
 - **Phone:** **+91 9310785883**

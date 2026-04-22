@@ -37,6 +37,8 @@ SeekKrr reserves the right to review and moderate all submissions. We may:
 - Reject or remove content that fails to meet safety or quality benchmarks.
 - Temporarily suspend quests in response to reported hazards or environmental changes.
 
+**Takedown Timelines:** Content reported as 'Unlawful' (under Rule 3(1)(b) of the IT Rules 2026) or 'Deepfake/Nudity' will be removed within 3 hours (for government orders) or 36 hours (for urgent user reports) to maintain legal immunity as an intermediary.
+
 ## 5. Compensation and Monetization
 During the current MVP (Minimum Viable Product) phase, participation in the Creator Portal is voluntary. Creators will receive prominent platform attribution for their published work.
 
@@ -45,11 +47,16 @@ During the current MVP (Minimum Viable Product) phase, participation in the Crea
 - **Indemnity:** You agree to indemnify and hold SeekKrr, its affiliates, and employees harmless from any claims or damages arising from users participating in quests you have designed.
 - **Disclaimer:** SeekKrr is not liable for any injuries, property damage, or legal disputes encountered by travelers interacting with your Creator Content.
 
-## 7. Account Termination
+## 7. Account Termination and Data Retention
 SeekKrr may suspend or terminate access to the Creator Portal at its discretion for violations of these Terms, actions that jeopardize user safety, or conduct that may harm the platform’s reputation.
+
+**Data Retention:** Upon account deletion, SOLOQUEST PRIVATE LIMITED will retain registration data and quest-related logs for 180 days to comply with investigative requirements under Indian law.
 
 ## 8. Amendments
 These Terms may be updated as the platform evolves. Significant changes will be communicated via your registered email. Continued use of the Portal following such updates constitutes acceptance of the revised Terms.
 
-## 9. Contact
+## 9. Grievance Redressal
+In accordance with IT Rules 2026, the Grievance Officer for SOLOQUEST PRIVATE LIMITED is **Rishabh Maheshwari**, reachable at **grievance@seekkrr.com** or **+91 9310785883**. Complaints will be acknowledged within 24 hours.
+
+## 10. Contact
 If you have any questions, contact us at [support@seekkrr.com](mailto:support@seekkrr.com) or **+91 9310785883**.
