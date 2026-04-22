@@ -45,13 +45,13 @@ Unless otherwise indicated, the Platform is our proprietary property, and all so
 | :--- | :--- | :--- |
 | **SeekKrr Platform** | SOLOQUEST PRIVATE LIMITED | No reproduction without explicit consent |
 | **Creator Content** | Quest Creator | Licensed to SeekKrr for distribution |
-| **User Data** | User | Processed by SeekKrr as per Privacy Policy |
+| **User Data** | User | Processed by SeekKrr as per [Privacy Policy](privacy-policy.md) |
 
 ## 6. Prohibited Activities
 You may not access or use the Platform for any purpose other than that for which we make the Platform available. The Platform may not be used in connection with any commercial endeavors except those that are specifically endorsed or approved by us.
 
 ## 7. Governing Law and Jurisdiction
-These Terms shall be governed by and defined following the laws of **Uttar Pradesh, India**. SOLOQUEST PRIVATE LIMITED and yourself irrevocably consent that the courts of **Allahabad, Uttar Pradesh, India** shall have exclusive jurisdiction to resolve any dispute which may arise in connection with these terms.
+These Terms shall be governed by and defined following the laws of **Uttar Pradesh, India**. SOLOQUEST PRIVATE LIMITED and you irrevocably consent that the courts of **Allahabad, Uttar Pradesh, India** shall have exclusive jurisdiction to resolve any dispute which may arise in connection with these terms.
 
 ## 8. Limitation of Liability
 In no event will we or our directors, employees, or agents be liable to you or any third party for any direct, indirect, consequential, exemplary, incidental, special, or punitive damages, including lost profit, lost revenue, loss of data, or other damages arising from your use of the Platform, even if we have been advised of the possibility of such damages.
