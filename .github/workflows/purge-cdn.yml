@@ -1,0 +1,23 @@
+name: CDN Cache Invalidation
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'en/**/*.md'
+
+jobs:
+  purge-cache:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Purge jsDelivr Cache for Markdown files
+        run: |
+          for file in $(find en -name '*.md'); do
+            echo "Purging https://cdn.jsdelivr.net/gh/seekkrr/policies@main/$file"
+            curl -s -o /dev/null -w "%{http_code}" https://purge.jsdelivr.net/gh/seekkrr/policies@main/$file
+            echo ""
+          done
