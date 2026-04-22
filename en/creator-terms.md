@@ -24,6 +24,7 @@ All Creator Content must adhere to SeekKrr’s quality and safety standards. By 
 - **Safety:** Quests must not direct users into hazardous areas, private property (trespassing), restricted zones, or legally questionable locations. Particular attention must be paid to terrain and environmental conditions (e.g., seasonal accessibility).
 - **Appropriateness:** Content must be suitable for our core demographic (young adults, ages 17–50) and must not contain any illegal, hateful, explicit, or discriminatory material.
 - **Feasibility:** All challenges and clues must be solvable within the context of the quest without requiring specialized, undisclosed equipment.
+- **Synthetically Generated Information (SGI):** In compliance with the IT Rules 2026, creators must explicitly declare if any content (text, imagery, video, audio) is generated using Artificial Intelligence (AI). All AI-generated content must be clearly labeled as Synthetically Generated Information and incorporate appropriate digital identifiers or metadata to ensure transparency for users.
 
 ## 3. Intellectual Property and Licensing
 - **Ownership:** You retain all ownership rights to the original text, imagery, and concepts you create.
