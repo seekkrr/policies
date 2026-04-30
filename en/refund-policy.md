@@ -37,7 +37,7 @@ In case of any refunds approved by SOLOQUEST PRIVATE LIMITED, it will take up to
 
 ## 5. Grievance Officer
 In accordance with the IT Act 2000 and Consumer Protection Rules:
-- **Name:** Rishabh Maheshwari
+- **Name:** Sudhanshu Rai
 - **Designation:** Grievance Redressal Officer
 - **Email:** [grievance@seekkrr.com](mailto:grievance@seekkrr.com)
 
